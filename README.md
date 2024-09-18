@@ -2,7 +2,6 @@
 - 👀 I’m interested in technology, web development, and AI innovations
 - 🌱 I’m currently learning JavaScript, Python, and machine learning
 - 💞️ I’m looking to collaborate on open-source projects and AI-powered web apps
-- 📫 How to reach me [your email or social handle]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love solving puzzles and exploring the latest tech trends
 
