@@ -38,10 +38,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://taplink.cc/ciyoofc"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-
 <a href="rhmtthdytt144@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
 <a href="https://wa.me/6285254337661"><img src="https://img.shields.io/badge/-Whatsapp-1877F2?style=flat&logo=Whatsapp&logoColor=white"/></a>
 </p>
