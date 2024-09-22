@@ -32,13 +32,3 @@
 </a>
 </p>
 
-
-### ⚙️ &nbsp;RoadMap Analytics
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66eaa7fef34c8868ec0f213b?variant=dark&roadmaps=full-stack)](https://roadmap.sh)
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<a href="rhmtthdytt144@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://wa.me/6285254337661"><img src="https://img.shields.io/badge/-Whatsapp-1877F2?style=flat&logo=Whatsapp&logoColor=white"/></a>
-</p>
